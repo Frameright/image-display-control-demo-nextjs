@@ -11,21 +11,19 @@ type Props = {
 
 const CoverImage = ({ title, src, slug }: Props) => {
   const image = (
-    <div
-      className="relative sm:aspect-[1/1] md:aspect-[2/1] xl:aspect-[3/1]"
-      data-idc-parent
-      style={{ contain: 'paint' }}
-    >
+    <div data-idc-parent style={{ contain: 'paint' }}>
       <ImageDisplayControl>
         <Image
           src={src}
           alt={`Cover Image for ${title}`}
-          className={cn('shadow-sm w-full', {
-            'hover:shadow-lg transition-shadow duration-200': slug,
-          })}
-          fill={true}
-          style={{ objectFit: 'cover' }}
-          sizes={`(min-width: 1540px) 1540px, 100vw`}
+          className={cn(
+            'shadow-sm w-full aspect-[1/1] md:aspect-[2/1] xl:aspect-[3/1]',
+            {
+              'hover:shadow-lg transition-shadow duration-200': slug,
+            }
+          )}
+          width={1300}
+          height={630}
           priority={true}
           data-path-on-server={`public/${src}`}
         />
