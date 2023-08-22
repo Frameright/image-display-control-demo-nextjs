@@ -1,6 +1,5 @@
 import Container from './container'
 import cn from 'classnames'
-import { EXAMPLE_PATH } from '../lib/constants'
 
 type Props = {
   preview?: boolean
@@ -31,7 +30,7 @@ const Alert = ({ preview }: Props) => {
             <>
               The source code for this demo is{' '}
               <a
-                href={``}
+                href={`https://github.com/Frameright/image-display-control-demo-nextjs`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
                 available on GitHub
