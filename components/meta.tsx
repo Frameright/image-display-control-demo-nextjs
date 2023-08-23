@@ -36,7 +36,6 @@ const Meta = () => {
         name="description"
         content={`A statically generated demo using the Image Display Control React Component and Next.js.`}
       />
-      <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
   )
 }
