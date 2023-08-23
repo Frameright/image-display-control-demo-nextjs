@@ -12,7 +12,7 @@ type Props = {
 const CoverImage = ({ title, src, slug }: Props) => {
   const image = (
     <div
-      className="relative sm:aspect-[1/1] md:aspect-[2/1] xl:aspect-[3/1]"
+      className="relative aspect-[1/1] md:aspect-[2/1] xl:aspect-[3/1]"
       data-idc-parent
       style={{ contain: 'paint' }}
     >
