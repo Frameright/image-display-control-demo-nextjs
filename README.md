@@ -14,7 +14,7 @@ The detailed documentation for the React Image Display Control component and oth
 
 ## Demo
 
-To see the final demo in action, visit [https://vercel.com/ilu/image-display-control-demo-nextjs](https://vercel.com/ilu/image-display-control-demo-nextjs).
+To see the final demo in action, visit [https://nextjs.frameright.io/](https://nextjs.frameright.io/).
 
 To run the final demo yourself, clone the repo and install the dependencies:
 
@@ -46,6 +46,6 @@ npm run start
 
 Again open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Notes
+### Notes
 
 The `blog-starter` template uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
