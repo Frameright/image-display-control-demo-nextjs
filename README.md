@@ -6,11 +6,11 @@
 
 > **➡️ This demo has been built on top of the [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) template by [Vercel](https://vercel.com/).**
 
-A quick demo of integrating the [Image Display Control React Component](https://github.com/Frameright/react-image-display-control/) into a [Next.js](https://nextjs.org/) project. Made with ❤️ by [Frameright](https://frameright.co/). Power to the pictures!
+A quick demo of integrating the [Image Display Control React Component](https://github.com/Frameright/react-image-display-control/) into a [Next.js](https://nextjs.org/) project. Made with ❤️ by [Frameright](https://frameright.io/). Power to the pictures!
 
 Read more about Image Display Control on the [Frameright site](https://frameright.io/image-display-control/).
 
-The detailed documentation for the Image Display Control React Cmponent and other open-source IDC solutions is available on the [Frameright developer portal](https://docs.frameright.io/).
+The detailed documentation for the Image Display Control React Component and other open-source IDC solutions is available on the [Frameright developer portal](https://docs.frameright.io/).
 
 ## Demo
 
