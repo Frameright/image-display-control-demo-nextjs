@@ -12,9 +12,15 @@ Read more about Image Display Control on the [Frameright site](https://framerigh
 
 The detailed documentation for the Image Display Control React Component and other open-source IDC solutions is available on the [Frameright developer portal](https://docs.frameright.io/).
 
-## Demo
-
 To see the final demo in action, visit [https://nextjs.frameright.io/](https://nextjs.frameright.io/).
+
+## Creating the demo
+
+[<img src="https://i1.ytimg.com/vi/eO8UKLQ3tOE/maxresdefault.jpg" style="border: 2px solid #999">](https://www.youtube.com/watch?v=UsBtRSyY-7c&feature=youtu.be)
+
+[Watch on Youtube how to create the demo yourself](https://www.youtube.com/watch?v=UsBtRSyY-7c&feature=youtu.be)
+
+## Running the demo
 
 To run the final demo yourself, clone the repo and install the dependencies:
 
