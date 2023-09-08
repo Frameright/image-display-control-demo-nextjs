@@ -16,7 +16,7 @@ To see the final demo in action, visit [https://nextjs.frameright.io/](https://n
 
 ## Creating the demo
 
-[<img src="https://i1.ytimg.com/vi/eO8UKLQ3tOE/maxresdefault.jpg" style="border: 2px solid #999">](https://www.youtube.com/watch?v=UsBtRSyY-7c&feature=youtu.be)
+[<img src="https://i.ytimg.com/vi/UsBtRSyY-7c/maxresdefault.jpg" alt="Integrating IDC with React & Next.js"/>](https://www.youtube.com/watch?v=UsBtRSyY-7c&feature=youtu.be)
 
 [Watch on Youtube how to create the demo yourself](https://www.youtube.com/watch?v=UsBtRSyY-7c&feature=youtu.be)
 
